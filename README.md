@@ -9,3 +9,7 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
 I'll meet you over there, can't wait to get started!
+
+May 9, 2019
+第一次开始学习github，还是蛮兴奋的，想想我也快要变成我以前崇拜的那些很厉害的人，就觉得特别的激动，学习时动力满满呀！
+加油，熬过这开始的困难时期，美好的生活（多样的资源）就在之后等待着你啦！
